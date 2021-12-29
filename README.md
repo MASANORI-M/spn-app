@@ -1,3 +1,14 @@
+# 超実践ノート
+
+React × Redux × Firebaseで作成した、やるべき事・やりたい事を記録して実践するためのノートアプリです。
+以下URLより試してみてください。
+（これからも改良していきます。）
+
+# URL
+
+https://spn-app-fed9b.web.app/signin
+アカウント： test1@gmail.com / 1111test
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
