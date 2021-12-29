@@ -6,7 +6,7 @@ React × Redux × Firebaseで作成した、やるべき事・やりたい事を
 
 # URL
 
-https://spn-app-fed9b.web.app/signin
+https://spn-app-fed9b.web.app/signin<br>
 アカウント： test1@gmail.com / 1111test
 
 # Getting Started with Create React App
